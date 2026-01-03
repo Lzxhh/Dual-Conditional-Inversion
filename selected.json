@@ -1,0 +1,32 @@
+{
+  "000000000001": {
+    "image_path": "images/0.jpg",
+    "original_prompt": "a [round] cake with orange frosting on a wooden plate",
+    "editing_prompt": "a [square] cake with orange frosting on a wooden plate",
+    "blended_word": "cake cake"
+  },
+  "000000000016": {
+    "image_path": "images/1.jpg",
+    "original_prompt": "a plate with [steak] on it",
+    "editing_prompt": "a plate with [salmon] on it",
+    "blended_word": "steak salmon"
+  },
+  "000000000099": {
+    "image_path": "images/2.jpg",
+    "original_prompt": "a painting of a woman holding a [pink flower]",
+    "editing_prompt": "a painting of a woman holding a [teddy bear]",
+    "blended_word": "flower bear"
+  },
+  "112000000003": {
+    "image_path": "images/3.jpg",
+    "original_prompt": "a girl with black hair and a white shirt is holding a [phone]",
+    "editing_prompt": "a girl with black hair and a white shirt is holding a [coffee]",
+    "blended_word": "phone coffee"
+  },
+  "314000000000": {
+ "image_path": "images/4.jpg",
+"original_prompt": "a house with [lightning and] rain on it", 
+"editing_prompt": "a house with rain on it",
+  "blended_word": "rain rain"
+  }
+}
