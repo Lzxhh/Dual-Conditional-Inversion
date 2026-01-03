@@ -19,10 +19,12 @@ pip install -r requirements.txt
 ```
 
 3. Download Stable Diffusion Model:
+
    The code will automatically download the Stable Diffusion v1.4 model from HuggingFace on first run. 
    Alternatively, you can specify a local model path using `--model_path` argument.
 
 4. Download Datasets and Benchmarks:
+
    Please follow the instructions in [PnPInversion](https://github.com/cure-lab/PnPInversion) to download the datasets and benchmarks.
 
    
